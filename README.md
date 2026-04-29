@@ -56,7 +56,6 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 ## 📂 Notable Public Repos
 
 - [`vincentjzimmer/Documents`](https://github.com/vincentjzimmer/Documents) — Papers, book chapters, talks (43 ⭐)
-- [`vincentjzimmer/formal_work`](https://github.com/vincentjzimmer/formal_work) — Lean 4, TLA+, Rocq explorations
 
 ---
 
