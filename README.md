@@ -17,7 +17,8 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 | Area | Details |
 |------|---------|
-| **Firmware** | UEFI/BIOS, EDKII, Project Mu, FSP, PI Spec, NixOS, embedded Linux |
+| **Firmware** | UEFI/BIOS, EDKII, Project Mu, FSP, PI Spec, embedded Linux |
+| **Linux / NixOS** | Nix flakes & modules, reproducible firmware packaging, Rust-based systemd services |
 | **Security** | Secure Boot, TPM/TCG, SPDM, NIST 800-193, threat modeling, post-quantum crypto |
 | **Formal Methods** | Lean 4, TLA+, Rocq/Coq, Isabelle/HOL, CBMC, Frama-C |
 | **Languages** | Rust · C · OCaml · Python · Nix · Bash |
