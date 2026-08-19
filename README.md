@@ -7,7 +7,7 @@ Seattle area, WA · [vincentjzimmer.github.io](https://vincentjzimmer.github.io)
 
 ## About Me
 
-I'm a senior firmware and platform security engineer with 30+ years of experience — from silicon bring-up to OS handoff. Currently at **Anduril Industries** working on firmware for autonomous systems, AI edge hardware (NVIDIA Jetson), and applying formal verification to mission-critical code.
+I'm a senior firmware and platform security engineer with 30+ years of experience — from silicon bring-up to OS handoff. Currently at **Anduril Industries** working on firmware and Linux for autonomous systems, AI edge hardware (NVIDIA Jetson), and applying formal verification to mission-critical code.
 
 Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (27 years — UEFI architecture, Secure Boot, TPM/TCG, FSP).
 
@@ -29,6 +29,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 ## Books
 
 - **[System Firmware: An Essential Guide](https://www.amazon.com/dp/1484279387)** — Banik, Zimmer · Apress 2022
+- **[Firmware Development: A Guide](https://www.amazon.com/dp/1484279735)** — Banik, Zimmer · Apress 2022
 - **[Building Secure Firmware](https://www.amazon.com/gp/product/1484261054/)** — Yao, Zimmer · Apress 2020
 - **[Beyond BIOS, 3rd Ed.](https://www.amazon.com/dp/1501514784/)** — Zimmer, Rothman, Marisetty · De Gruyter 2017
 - **[Harnessing the UEFI Shell, 2nd Ed.](https://www.amazon.com/dp/1501514806/)** — Rothman, Zimmer, Lewis · De Gruyter 2017
@@ -55,7 +56,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 ## Notable Public Repos
 
-- [`vincentjzimmer/Documents`](https://github.com/vincentjzimmer/Documents) — Papers, book chapters, talks (43 ⭐)
+- [`vincentjzimmer/Documents`](https://github.com/vincentjzimmer/Documents) — Papers, book chapters, talks (43)
 
 ---
 
