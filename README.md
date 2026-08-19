@@ -5,7 +5,7 @@ Seattle area, WA · [vincentjzimmer.github.io](https://vincentjzimmer.github.io)
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a senior firmware and platform security engineer with 30+ years of experience — from silicon bring-up to OS handoff. Currently at **Anduril Industries** working on firmware for autonomous systems, AI edge hardware (NVIDIA Jetson), and applying formal verification to mission-critical code.
 
@@ -13,7 +13,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 ---
 
-## 🔧 What I Work On
+## What I Work On
 
 | Area | Details |
 |------|---------|
@@ -26,7 +26,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 ---
 
-## 📚 Books
+## Books
 
 - **[System Firmware: An Essential Guide](https://www.amazon.com/dp/1484279387)** — Banik, Zimmer · Apress 2022
 - **[Building Secure Firmware](https://www.amazon.com/gp/product/1484261054/)** — Yao, Zimmer · Apress 2020
@@ -36,7 +36,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 ---
 
-## 📄 Selected Papers & Standards
+## Selected Papers & Standards
 
 - Post-Quantum SPDM Device Authentication — *MDPI Journal of Cryptography*, 2022
 - UEFI Firmware Fuzzing with Simics — *DAC 2020*
@@ -45,7 +45,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 ---
 
-## 🎓 Education
+## Education
 
 - **M.S. Computer Science & Engineering** — University of Washington, 1999
 - **B.S. Electrical Engineering** — Cornell University, 1992
@@ -53,7 +53,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 
 ---
 
-## 📂 Notable Public Repos
+## Notable Public Repos
 
 - [`vincentjzimmer/Documents`](https://github.com/vincentjzimmer/Documents) — Papers, book chapters, talks (43 ⭐)
 
