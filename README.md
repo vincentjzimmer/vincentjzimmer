@@ -22,8 +22,8 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 | **Linux / NixOS** | Nix flakes & modules, reproducible firmware packaging, Rust-based systemd services |
 | **Security** | Secure Boot, TPM/TCG, SPDM, NIST 800-193, threat modeling, post-quantum crypto |
 | **Formal Methods** | Lean 4, TLA+, Rocq/Coq, Isabelle/HOL, CBMC, Frama-C |
-| **Languages** | Rust · C · OCaml · Python · Nix · Bash |
-| **AI Hardware** | NVIDIA Jetson (firmware, secure boot, security hardening) |
+| **Languages** | Rust · C · C++ · Verilog · OCaml · Python · Nix · Bash |
+| **AI Hardware** | Embedded Intel + NVIDIA Jetson (firmware, secure boot, security hardening) |
 
 ---
 
