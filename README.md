@@ -43,7 +43,7 @@ Previously: **Microsoft** (Project Mu, firmware threat modeling) and **Intel** (
 - Post-Quantum SPDM Device Authentication — *MDPI Journal of Cryptography*, 2022
 - UEFI Firmware Fuzzing with Simics — *DAC 2020*
 - Symbolic Execution for BIOS Security — *USENIX WOOT 2015*
-- RFC 5970: DHCPv6 Options for Network Boot (co-author)
+- RFC 5970: DHCPv6 Options for Network Boot 
 
 ---
 
