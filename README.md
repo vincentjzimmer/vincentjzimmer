@@ -1,6 +1,6 @@
 # Vincent James Zimmer
 
-**Staff Software Engineer — Firmware, Security & Formal Methods**  
+**Staff Software Engineer — Firmware, Security & Operating Systems**  
 Active Top Secret Security Clearance  
 Seattle area, WA · [vincentjzimmer.github.io](https://vincentjzimmer.github.io) · [LinkedIn](https://www.linkedin.com/in/vzimmer/) · [Google Scholar](https://scholar.google.com/citations?user=9fW87_IAAAAJ)
 
